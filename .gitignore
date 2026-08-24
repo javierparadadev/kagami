@@ -1,0 +1,69 @@
+# --- AI assistants / agents ---
+
+# Claude Code
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+.claude.json
+
+# OpenAI Codex
+AGENTS.md
+.codex/
+
+# Gemini CLI
+GEMINI.md
+.gemini/
+
+# GitHub Copilot
+.github/copilot-instructions.md
+.github/instructions/
+.github/prompts/
+
+# Cursor
+.cursor/
+.cursorrules
+.cursorignore
+.cursorindexingignore
+
+# Windsurf
+.windsurf/
+.windsurfrules
+
+# Cline / Roo Code
+.clinerules
+.clinerules/
+.roo/
+.roomodes
+
+# Aider
+.aider*
+
+# Continue
+.continue/
+
+# JetBrains Junie
+.junie/
+
+# Amazon Q / Kiro
+.amazonq/
+.kiro/
+
+# Sourcegraph Cody
+.cody/
+
+# OpenCode
+.opencode/
+opencode.json
+
+# Goose
+.goose/
+
+# MCP local config
+.mcp.json
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
